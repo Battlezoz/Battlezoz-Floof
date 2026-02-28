@@ -808,3 +808,15 @@ Entries:
       message: Organ transplants now once again fix poison, airloss and rot.
   id: 99
   time: '2026-02-28T22:26:21.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: >-
+        Added a smokables tab to the loadout (max 2 - ideally a lighter and a
+        smoko)
+    - type: Tweak
+      message: >-
+        Changed herbals recipe to the one from old floof, so they no longer have
+        nicotine but still heal around the same.
+  id: 100
+  time: '2026-02-28T22:27:30.0000000+00:00'
