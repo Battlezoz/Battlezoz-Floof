@@ -744,3 +744,13 @@ Entries:
       message: The whitelist cvar will now work.
   id: 92
   time: '2026-02-28T04:57:11.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: Intern roles are playable again
+    - type: Fix
+      message: >-
+        Prisoner no longer requires you to have security play time (you are
+        welcome Mr. Pall)
+  id: 93
+  time: '2026-02-28T04:58:08.0000000+00:00'
