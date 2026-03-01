@@ -23,7 +23,11 @@
       "directions": 4
     },
     {
-      "name": "equipped-HELMET-avali",
+      "name": "off-equipped-HELMET-avali",
+      "directions": 4
+    },
+    {
+      "name": "on-equipped-HELMET-avali",
       "directions": 4
     }
   ]
