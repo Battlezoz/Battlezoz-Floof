@@ -30,8 +30,8 @@
   id: MobAvaliSprites
   sprites:
     Head: MobAvaliHead
-    UndergarmentTopTanktopAvali: MobHumanoidAnyMarking
-    UndergarmentBottomBoxersAvali: MobHumanoidAnyMarking
+    UndergarmentTop: MobHumanoidAnyMarking
+    UndergarmentBottom: MobHumanoidAnyMarking
     Chest: MobAvaliTorso
     HeadTop: MobHumanoidAnyMarking
     HeadSide: MobHumanoidAnyMarking

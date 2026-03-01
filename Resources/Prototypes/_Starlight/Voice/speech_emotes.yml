@@ -1,38 +1,11 @@
 # Euphoria, ported from Starlight. Unneccessary context was omitted from the original file.
 
 - type: emote
-  id: Hisses
-  name: chat-emote-name-hiss
-  category: Vocal
-  available: false
-  icon: _DV/Interface/Emotes/hiss.png
-  whitelist:
-    components:
-    - Vocal
-  blacklist:
-    components:
-    - BorgChassis
-  chatMessages: ["chat-emote-msg-hiss"]
-  chatTriggers:
-  - hiss
-  - hiss.
-  - hiss!
-  - hiss?
-  - hissing
-  - hissing.
-  - hissing!
-  - hissing?
-  - hisses
-  - hisses.
-  - hisses!
-  - hisses?
-
-- type: emote
   id: Purr
   name: chat-emote-name-purr
   category: Vocal
   available: false
-  icon: { sprite: _Starlight/Actions/felionoid.rsi, state: cat_print }
+  icon: _DV/Interface/Emotes/purr.png
   whitelist:
     components:
     - Vocal
@@ -59,7 +32,7 @@
   name: chat-emote-name-trill
   category: Vocal
   available: false
-  icon: { sprite: _Starlight/Actions/felionoid.rsi, state: cat_print }
+  icon: _DV/Interface/Emotes/caw.png
   whitelist:
     components:
     - Vocal
@@ -86,7 +59,7 @@
   name: chat-emote-name-scree
   category: Vocal
   available: false
-  icon: { sprite: _Starlight/Actions/resomi.rsi, state: bird_call }
+  icon: _DV/Interface/Emotes/caw.png
   whitelist:
     components:
     - Vocal
@@ -113,7 +86,7 @@
   name: chat-emote-name-call
   category: Vocal
   available: false
-  icon: { sprite: _Starlight/Actions/resomi.rsi, state: bird_call }
+  icon: _DV/Interface/Emotes/ring.png
   whitelist:
     components:
     - Vocal
@@ -135,29 +108,30 @@
   - calls!
   - calls?
 
-- type: emote
-  id: Squawk
-  name: chat-emote-name-squawk
-  category: Vocal
-  available: false
-  icon: { sprite: _Starlight/Actions/resomi.rsi, state: bird_call }
-  whitelist:
-    components:
-    - Vocal
-  blacklist:
-    components:
-    - BorgChassis
-  chatMessages: ["chat-emote-msg-squawk"]
-  chatTriggers:
-  - squawk
-  - squawk.
-  - squawk!
-  - squawk?
-  - squawking
-  - squawking.
-  - squawking!
-  - squawking?
-  - squawks
-  - squawks.
-  - squawks!
-  - squawks?
+# Disabling this to use the DV version.
+#- type: emote
+#  id: Squawk
+#  name: chat-emote-name-squawk
+#  category: Vocal
+#  available: false
+#  icon: _DV/Interface/Emotes/caw.png
+#  whitelist:
+#    components:
+#    - Vocal
+#  blacklist:
+#    components:
+#    - BorgChassis
+#  chatMessages: ["chat-emote-msg-squawk"]
+#  chatTriggers:
+#  - squawk
+#  - squawk.
+#  - squawk!
+#  - squawk?
+#  - squawking
+#  - squawking.
+#  - squawking!
+#  - squawking?
+#  - squawks
+#  - squawks.
+#  - squawks!
+#  - squawks?

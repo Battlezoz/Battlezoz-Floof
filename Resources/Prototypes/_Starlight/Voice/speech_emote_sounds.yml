@@ -28,7 +28,7 @@
       collection: MaleGasp
     DefaultDeathgasp:
       collection: MaleDeathGasp
-    Hisses:
+    Hiss:
       collection: FelionoidHisses
     Purr:
       collection: FelionoidPurrs
@@ -40,8 +40,8 @@
       collection: ResomiScrees
     Call:
       collection: ResomiCalls
-    Squawk:
-      collection: ResomiSquawk
+    HarpySquawk:
+      collection: HarpySquawks
     Crying:
       path: /Audio/_Starlight/Voice/Avali/avali_cry.ogg
     Honk:
@@ -79,7 +79,7 @@
       collection: FemaleGasp
     DefaultDeathgasp:
       collection: FemaleDeathGasp
-    Hisses:
+    Hiss:
       collection: FelionoidHisses
     Purr:
       collection: FelionoidPurrs
@@ -91,8 +91,8 @@
       collection: ResomiScrees
     Call:
       collection: ResomiCalls
-    Squawk:
-      collection: ResomiSquawk
+    HarpySquawk:
+      collection: HarpySquawks
     Crying:
       path: /Audio/_Starlight/Voice/Avali/avali_cry.ogg
     Honk:
