@@ -46,9 +46,9 @@
     speechSounds: MaleAvali
   - type: Vocal # Floofstation - uncommented
     sounds:
-      Male: RMCMaleAvali
-      Unsexed: RMCMaleAvali
-      Female: RMCFemaleAvali
+      Male: MaleAvali
+      Unsexed: MaleAvali
+      Female: FemaleAvali
   - type: Hands
     handDisplacement:
       sizeMaps:

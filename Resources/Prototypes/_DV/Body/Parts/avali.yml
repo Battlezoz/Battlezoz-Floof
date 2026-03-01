@@ -87,7 +87,8 @@
   - type: Sprite
     state: "l_leg"
   - type: MovementBodyPart
-    maxDensity: 100
+  # Max Density seems to uhh, not exist, so I'm disabling it.
+    #maxDensity: 100
 
 - type: entity
   parent: [ PartAvali, BaseRightLeg ]
@@ -97,7 +98,7 @@
   - type: Sprite
     state: "r_leg"
   - type: MovementBodyPart
-    maxDensity: 100
+    #maxDensity: 100
 
 - type: entity
   parent: [ PartAvali, BaseLeftFoot ]

@@ -131,7 +131,7 @@
     - type: Bloodstream
       bloodReagents:
         reagents:
-        - ReagentId: AvaliBlood
+        - ReagentId: AmmoniaBlood
           Quantity: 1
     - type: MeleeWeapon
       soundHit:
