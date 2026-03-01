@@ -173,7 +173,6 @@
     - id: PlushieDetectiveVulps
     - id: PlushieJester
     - id: PlushieSlips
-    - id: SadBirbPlushie
     - !type:GroupSelector # Hypnotemp
       children:
       - id: PlushieHypnoTempLO
