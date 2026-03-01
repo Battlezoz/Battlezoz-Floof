@@ -42,6 +42,9 @@
 - type: Tag
   id: ArtifactFragment # Storage whitelist: OreBag. CargoBounty: BountyArtifactFragment. ConstructionGraph: Artifact
 
+- type: Tag
+  id: Avali # Species tag for Avali. Used for species-specific behavior and as a key for species-specific components like inventory displacements and body parts. To be honest, I don't exactly know what this does.
+
 ## B ##
 
 - type: Tag

@@ -159,4 +159,7 @@
     ClothingBackpackSatchelSmugglerUnanchored: 1
     ClothingHeadHatSolidHeadband: 2
     ClothingNeckCollarSyndi: 1 # Floofstation
+    # Starlight start
+    ClothingHeadHatBrimHat: 3
+    # Starlight end
   # DO NOT ADD MORE, USE UNIFORM DYING
