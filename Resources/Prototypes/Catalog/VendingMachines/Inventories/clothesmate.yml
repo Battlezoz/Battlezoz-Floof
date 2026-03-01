@@ -149,6 +149,9 @@
     ClothingNeckCollarBlue: 2
     ClothingClothWrap: 4 # Floofstation
     # Floofstation section end
+    # Starlight start
+    ClothingHeadHatBrimHat: 3
+    # Starlight end
   contrabandInventory:
     ClothingMaskNeckGaiter: 2
     ClothingUniformJumpsuitTacticool: 1
@@ -159,7 +162,4 @@
     ClothingBackpackSatchelSmugglerUnanchored: 1
     ClothingHeadHatSolidHeadband: 2
     ClothingNeckCollarSyndi: 1 # Floofstation
-    # Starlight start
-    ClothingHeadHatBrimHat: 3
-    # Starlight end
   # DO NOT ADD MORE, USE UNIFORM DYING

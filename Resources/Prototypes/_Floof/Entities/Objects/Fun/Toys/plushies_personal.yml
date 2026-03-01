@@ -1518,7 +1518,7 @@
         - ItemMask
 
 - type: entity  # Euphoria start
-  parent: PlushieHuman
+  parent: BasePlushie
   id: PlushieSadBirb
   name: sad birb plushie
   description: A rugged but soft black plushie. It looks worn and well maintained.
