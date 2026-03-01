@@ -5,7 +5,7 @@
   name: chat-emote-name-hiss
   category: Vocal
   available: false
-  icon: { sprite: _Starlight/Actions/felionoid.rsi, state: cat_print }
+  icon: _DV/Interface/Emotes/hiss.png
   whitelist:
     components:
     - Vocal
