@@ -1516,3 +1516,24 @@
         density: 10
         mask:
         - ItemMask
+
+- type: entity  # HL
+  parent: BasePlushie
+  id: PlushieSadBirb
+  name: sad birb plushie
+  description: A rugged but soft black plushie. It looks worn and well maintained.
+  components:
+  - type: Sprite
+    sprite: _Floof/Objects/Fun/floof_plush.rsi
+    state: sadbirbplush
+  - type: MeleeWeapon
+    wideAnimationRotation: 180
+    soundHit:
+      path: /Audio/_Starlight/Voice/Avali/avali_cry.ogg
+  - type: Speech
+    speechVerb: Reptilian # for pais (In the secret stash)
+  - type: Tag
+    tags:
+    - ClothMade
+    - Payload
+    - PlushieLizard # HL
